@@ -1,0 +1,14 @@
+*.iso
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+*.sav
+*.vbox
+*.vbox-prev
+Snapshots/
+.env
+Thumbs.db
+.DS_Store
