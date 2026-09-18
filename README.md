@@ -12,6 +12,17 @@ I built this environment to practice authorized security testing throughout my c
 
 This repository documents the setup and validation work. Scanning and exploitation are outside the scope of this first lab. All future testing must remain within the instructor-approved environment.
 
+## Project at a glance
+
+| My work | Evidence |
+| --- | --- |
+| Deployed and configured two Linux VMs | Desktop and console screenshots |
+| Configured host-only networking and static addresses | Adapter settings and IP output |
+| Checked communication in both directions | Four replies and 0% packet loss in each ping capture |
+| Prepared recovery points | Baseline snapshot screenshots |
+
+**Result:** a documented environment for future authorized security labs. This project demonstrates setup and connectivity validation; it does not claim a completed penetration test.
+
 ## Skills practiced
 
 - Virtual machine deployment and Linux installation
