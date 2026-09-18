@@ -178,10 +178,9 @@ This lab helped me see why I need to keep my testing environment separate, check
 
 ## Documentation and evidence
 
-- [Original configuration table (PDF)](docs/Jean_Isabelle_Lab1_Configuration.pdf)
 - [Screenshot index](docs/Screenshot_Index.md)
 - [Screenshot files](screenshots/)
 
-The original PDF records the IP addresses without the subnet prefix. This README adds `/24` to document the mask explicitly. The full virtualization screenshot is still to be added to this repository from the saved lab files. Both ping screenshots are included.
+The full virtualization screenshot is still to be added to this repository from the saved lab files. Both ping screenshots are included.
 
 This repository contains documentation and screenshots only. VM disks, installation images, and actual snapshot files are not included.
