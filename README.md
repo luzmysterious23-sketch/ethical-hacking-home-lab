@@ -198,5 +198,6 @@ This repository contains documentation and screenshots only. VM disks, installat
 
 ## Additional coursework exercises
 
+- [ICMP Flood Exercise and Wireshark Observation (ACI course reference)](docs/ICMP_Flood_Wireshark_Observation.md) — ICMP request/reply visual, packet statistics, and evidence checklist.
 - [Windows 11 Firewall Settings (ACI training reference)](docs/Windows11_Firewall_Training_Reference.md) — step overview, reference illustration, and observations to verify.
 - [DoS/DDoS: TCP SYN Flood Observation (ACI training environment)](docs/DoS_DDoS_SYN_Flood_Observation.md) — concepts, Wireshark evidence checklist, and pending observations. This is a separate hosted exercise, not part of the VirtualBox Lab 1 environment.
