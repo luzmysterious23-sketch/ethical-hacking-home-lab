@@ -195,3 +195,7 @@ This lab helped me see why I need to keep my testing environment separate, check
 The full virtualization screenshot is still to be added to this repository from the saved lab files. Both ping screenshots are included.
 
 This repository contains documentation and screenshots only. VM disks, installation images, and actual snapshot files are not included.
+
+## Additional coursework exercises
+
+- [DoS/DDoS: TCP SYN Flood Observation (ACI training environment)](docs/DoS_DDoS_SYN_Flood_Observation.md) — concepts, Wireshark evidence checklist, and pending observations. This is a separate hosted exercise, not part of the VirtualBox Lab 1 environment.
