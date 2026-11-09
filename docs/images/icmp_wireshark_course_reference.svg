@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="650" viewBox="0 0 1080 650">
+<rect width="1080" height="650" fill="#f4f7fa"/>
+<rect x="34" y="33" width="1012" height="555" rx="12" fill="#fff" stroke="#b8c6d6" stroke-width="2"/>
+<rect x="34" y="33" width="1012" height="56" rx="12" fill="#e7edf5"/>
+<text x="59" y="67" font-family="Arial" font-weight="bold" font-size="24" fill="#233951">Wireshark — ICMP Echo Traffic (Course Example)</text>
+<rect x="54" y="104" width="972" height="47" rx="7" fill="#eaf5ed" stroke="#afccb8"/>
+<text x="73" y="135" font-family="monospace" font-size="21" fill="#266744">icmp</text>
+<rect x="54" y="169" width="972" height="42" fill="#e2e8f2"/>
+<g font-family="Arial" fill="#273c54" font-weight="bold" font-size="19"><text x="70" y="196">No.</text><text x="162" y="196">Source</text><text x="352" y="196">Destination</text><text x="554" y="196">Protocol</text><text x="720" y="196">Info</text></g>
+<rect x="54" y="211" width="972" height="289" fill="#f7dcf5"/>
+<g font-family="monospace" font-size="18" fill="#433351">
+<text x="70" y="253">1794</text><text x="162" y="253">192.168.0.3</text><text x="352" y="253">192.168.0.4</text><text x="565" y="253">ICMP</text><text x="720" y="253">Echo (ping) reply</text>
+<text x="70" y="300">1795</text><text x="162" y="300">192.168.0.4</text><text x="352" y="300">192.168.0.3</text><text x="565" y="300">ICMP</text><text x="720" y="300">Echo (ping) request</text>
+<text x="70" y="347">1796</text><text x="162" y="347">192.168.0.3</text><text x="352" y="347">192.168.0.4</text><text x="565" y="347">ICMP</text><text x="720" y="347">Echo (ping) reply</text>
+<text x="70" y="394">1798</text><text x="162" y="394">192.168.0.4</text><text x="352" y="394">192.168.0.3</text><text x="565" y="394">ICMP</text><text x="720" y="394">Echo (ping) request</text>
+<text x="70" y="441">1799</text><text x="162" y="441">192.168.0.3</text><text x="352" y="441">192.168.0.4</text><text x="565" y="441">ICMP</text><text x="720" y="441">Echo (ping) reply</text></g>
+<text x="61" y="545" font-family="Arial" font-size="17" fill="#56697b">The pink packet rows illustrate the request-and-reply pattern in the handout.</text>
+<text x="36" y="622" font-family="Arial" font-size="17" fill="#526578">Recreated teaching illustration, not a raw Wireshark screenshot or independent lab evidence.</text>
+</svg>
