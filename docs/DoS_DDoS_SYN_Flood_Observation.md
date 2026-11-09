@@ -21,6 +21,12 @@ This is a separate hosted training environment from my VirtualBox host-only Kali
 
 These addresses and the displayed screenshots come from the course instructions; they are **not yet evidence of my own results**.
 
+## Visual reference
+
+![Illustration of TCP SYN packets in the Wireshark course example](images/syn_flood_wireshark_course_example.svg)
+
+*Figure 1. Recreated illustration of the Wireshark SYN packet table shown in the Infosec Learning instructions. This is not an original capture from my lab session.*
+
 ## What the exercise demonstrates
 
 1. A TCP connection normally begins with a SYN packet and continues through the TCP handshake.
