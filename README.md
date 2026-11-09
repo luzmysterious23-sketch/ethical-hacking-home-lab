@@ -202,3 +202,4 @@ This repository contains documentation and screenshots only. VM disks, installat
 - [Windows 11 Firewall Settings (ACI training reference)](docs/Windows11_Firewall_Training_Reference.md) — step overview, reference illustration, and observations to verify.
 - [DoS/DDoS: TCP SYN Flood Observation (ACI training environment)](docs/DoS_DDoS_SYN_Flood_Observation.md) — concepts, Wireshark evidence checklist, and pending observations. This is a separate hosted exercise, not part of the VirtualBox Lab 1 environment.
 - [Task 4: Ping of Death — Large ICMP Traffic Observation](docs/Ping_of_Death_Task4_Observation.md) — completed training exercise, steps and evidence limitations documented; personal performance screenshots not yet included.
+- [Task 5: Metasploit TCP SYN Flood (ACI training reference)](docs/Task5_Metasploit_SYN_Flood_Training_Reference.md) — task steps and expected Ethernet observations; original run evidence not yet attached.
